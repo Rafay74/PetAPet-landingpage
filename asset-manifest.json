@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/PetAPet-landingpage/static/css/main.49cf3ad0.css",
+    "main.js": "/PetAPet-landingpage/static/js/main.1d240291.js",
+    "static/media/presentation.png": "/PetAPet-landingpage/static/media/presentation.2d949a93e3bcab6b6622.png",
+    "static/media/about2.png": "/PetAPet-landingpage/static/media/about2.3e9d6641665c23dd10eb.png",
+    "static/media/background2.png": "/PetAPet-landingpage/static/media/background2.bfce00459bcaf04fcce8.png",
+    "static/media/logo2.PNG": "/PetAPet-landingpage/static/media/logo2.1f29ef0646b664ec8b0c.PNG",
+    "static/media/feature_2.png": "/PetAPet-landingpage/static/media/feature_2.2b466162eafef9cf2b5f.png",
+    "static/media/feature_1.png": "/PetAPet-landingpage/static/media/feature_1.801589a0dc8faa4fad28.png",
+    "static/media/feature_3.png": "/PetAPet-landingpage/static/media/feature_3.0fadb17c93d531691fd5.png",
+    "index.html": "/PetAPet-landingpage/index.html",
+    "main.49cf3ad0.css.map": "/PetAPet-landingpage/static/css/main.49cf3ad0.css.map",
+    "main.1d240291.js.map": "/PetAPet-landingpage/static/js/main.1d240291.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49cf3ad0.css",
+    "static/js/main.1d240291.js"
+  ]
+}
